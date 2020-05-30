@@ -1,4 +1,4 @@
 
-pip install pywhatkit
+
 import pywhatkit as kit
-kit.sendwhatmsg("+918535033332","Hello",11,38)
+kit.sendwhatmsg("+918535033332","Hello",11,40)
